@@ -1,0 +1,5 @@
+.env
+/venv
+data/metro.json
+data/connections.json
+data/metrograph.gexf
